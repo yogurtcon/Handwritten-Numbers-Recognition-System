@@ -1,3 +1,13 @@
+### 使用方法
+
+train.ipynb训练并保存模型
+
+my_model.h5是保存下来的模型
+
+predict.ipynb进行手写数字识别
+
+<br/>
+
 ### 希望实现 “保存与加载模型” 这一功能
 
 new_model = keras.models.load_model(‘my_model.h5’)
